@@ -1,3 +1,5 @@
 This is file 1 - first commit
 
 DEV workflow stuff
+
+DEV Hashing here too

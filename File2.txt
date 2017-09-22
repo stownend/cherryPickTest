@@ -3,3 +3,5 @@ File 2 - commit 1
 DEV workflow stuff
 DEV more workflow
 DEV even more workflow
+
+DEV now some hashing
