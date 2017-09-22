@@ -4,3 +4,4 @@ still before me
 WF2
 
 Hash1
+Hash2
