@@ -2,3 +2,5 @@ before me
 still before me
 
 WF2
+
+Hash1
